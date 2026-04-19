@@ -1,0 +1,11 @@
+
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to EazyBack cards related local api in prod"
+  contactDetails:
+    name: "Jone Doe - PROD LEAD"
+    email: "jone.doe.prod@eazybytes.com"
+  onCallSupport:
+    -9876543210
+    -9876543210

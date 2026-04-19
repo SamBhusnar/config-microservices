@@ -1,0 +1,11 @@
+
+build:
+  version: "2.0"
+accounts:
+  message: "Welcome to EazyBack accounts related local api in qa"
+  contactDetails:
+    name: "Jone Doe - QA LEAD"
+    email: "jone.doe.qa@eazybytes.com"
+  onCallSupport:
+    -9876543210
+    -9876543210

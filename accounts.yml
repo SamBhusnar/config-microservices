@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+accounts:
+  message: "Welcome to EazyBack accounts related local api in dev"
+  contactDetails:
+    name: "Jone Doe - DEV LEAD"
+    email: "jone.doe.dev@eazybytes.com"
+  onCallSupport:
+    -9876543210
+    -9876543210

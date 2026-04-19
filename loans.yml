@@ -1,0 +1,11 @@
+
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to EazyBack loans related local api dev"
+  contactDetails:
+    name: "Jone Doe - DEV LEAD"
+    email: "jone.doe.dev@eazybytes.com"
+  onCallSupport:
+    -9876543210
+    -9876543211
