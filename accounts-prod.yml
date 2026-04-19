@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBack accounts related local api in prod"
   contactDetails:
     name: "Jone Doe - PROD LEAD"
-    email: "523106e039a928894638876af5445c434ed6f8b09d147bf8de28cdee7f18d1e00451cc457722fac8b8c533239799b2ac"
+    email: "{cipher}523106e039a928894638876af5445c434ed6f8b09d147bf8de28cdee7f18d1e00451cc457722fac8b8c533239799b2ac"
   onCallSupport:
     -9876543210
     -9876543210
