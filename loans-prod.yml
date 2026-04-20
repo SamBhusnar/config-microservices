@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 loans:
-  message: "Welcome to EazyBack loans related local api in production"
+  message: "Welcome to EazyBack loans related local api in production with sam"
 
   contactDetails:
     name: "Jone Doe - PROD LEAD"
