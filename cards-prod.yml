@@ -2,7 +2,7 @@
 build:
   version: "1.0"
 cards:
-  message: "Welcome to EazyBack cards related local api in prod"
+  message: "Welcome to EazyBack cards related local api in production"
   contactDetails:
     name: "Jone Doe - PROD LEAD"
     email: "jone.doe.prod@eazybytes.com"
