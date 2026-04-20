@@ -1,7 +1,7 @@
 
 build:
   version: "1.0"
-accounts:
+cards:
   message: "Welcome to EazyBack cards related local api in dev"
   contactDetails:
     name: "Jone Doe - DEV LEAD"
