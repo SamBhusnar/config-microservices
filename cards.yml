@@ -2,7 +2,7 @@
 build:
   version: "1.0"
 cards:
-  message: "Welcome to EazyBack cards related local api in dev"
+  message: "Welcome to EazyBack cards related docker api in dev"
   contactDetails:
     name: "Jone Doe - DEV LEAD"
     email: "jone.doe.dev@eazybytes.com"
