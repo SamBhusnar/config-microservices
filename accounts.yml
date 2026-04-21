@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 accounts:
-  message: "Welcome to EazyBack accounts related docker api with  dev"
+  message: "Welcome to EazyBack accounts related docker api with  dev and with samadhan"
   contactDetails:
     name: "Jone Doe - DEV LEAD"
     email: "jone.doe.dev@eazybytes.com"
