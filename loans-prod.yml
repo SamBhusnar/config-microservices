@@ -1,10 +1,10 @@
 build:
   version: "1.0"
 loans:
-  message: "Welcome to EazyBack loans related local api in prod"
+  message: "Welcome to EazyBack loans related local api in production with me"
 
   contactDetails:
     name: "Jone Doe - PROD LEAD"
-    email: "jone.doe.prod@eazybytes.com"
+    email: "{cipher}2d986fb154380fcf28550a5296a17d500adf82b830eab2ce8e527cabb1ee5ab30392d7a4da43a57928922b56738a6ecd"
   onCallSupport: -9876543210
     -9876543210
