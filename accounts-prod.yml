@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBack accounts related local api in production with spring cloud and with samadhan"
   contactDetails:
     name: "Jone Doe - PROD LEAD"
-    email: "{cipher}523106e039a928894638876af5445c434ed6f8b09d147bf8de28cdee7f18d1e00451cc457722fac8b8c533239799b2ac"
+    email: "{cipher}0e79567fc0f44b60e43da893c1f262cbd97892d92f221115eeb2fb3261549e76d1f277d0e774d530dfab3211c28dec62"
   onCallSupport:
     -9876543210
     -9876543210
